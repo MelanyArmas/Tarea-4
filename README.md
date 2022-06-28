@@ -1,4 +1,4 @@
-Informe tarea : del capitulo 7 y 8
+Informe tarea : capitulo 7 y 8
 
 Nombre : Melany Armas
 
@@ -19,6 +19,10 @@ Interpretar los resultados que se obtuvieron.
 MARCO TEÓRICO
 
 CAPÍTULO 7:
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/AN%C3%81LISIS%20DE%20CIRCUITOS%20RESISTIVOS%20EN%20SERIE-PARALELO.png)
+
+![](
 
 CAPÍTULO 8:
 
