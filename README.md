@@ -167,3 +167,21 @@ f) 1000 V
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kΩ y R2/R4 = 0.02. ¿Cuál es RX?
 
 ![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2046.jpg)
+
+48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60℃. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60
+
+![]()
+
+50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
+
+![]()
+
+52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
+
+![]()
+
+54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
+
+Si R2 se abre, VA=15V. VB=0V Y VC=0V
+
+CAPÍTULO 8:
