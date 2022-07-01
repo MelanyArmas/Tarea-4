@@ -104,7 +104,9 @@ Circuito c) Las resistencias R1 y R2 están conectadas en serie y están combina
 
 24. Determine el valor de cada resistor mostrado en la figura 7-73.
 
-![]()
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2024%20a.jpg)
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2024%20b.jpg)
 
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
 
@@ -170,18 +172,68 @@ f) 1000 V
 
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60℃. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60
 
-![]()
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2048.jpg)
 
 50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
 
-![]()
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2050.jpg)
 
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
-![]()
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2052.jpg)
 
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
 Si R2 se abre, VA=15V. VB=0V Y VC=0V
 
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2054.jpg)
+
 CAPÍTULO 8:
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%202%20S2.jpg)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%204%20S2.jpg)
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%206%20S2.jpg)
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%208%20S2.jpg)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2010%20S2%20a.jpg)
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2010%20S2%20b.jpg)
+
+12. Repita el problema 11 si R2 es de 10 kΩ.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2012%20S2.jpg)
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2014%20S2%20a.jpg)
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2014%20S2%20b.jpg)
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2014%20S2%20c.jpg)
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thévenin como se ve desde las terminales A y B.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2016%20S2.jpg)
+
+18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2018%20S2%20a.jpg)
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2018%20S2%20b.jpg)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
+
+![]()
