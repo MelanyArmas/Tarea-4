@@ -236,4 +236,54 @@ CAPÍTULO 8:
 
 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
 
-![]()
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2020%20S2%20a.jpg)
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2020%20S2%20b.jpg)
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2020%20S2%20c.jpg)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2022%20S2.jpg)
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2024%20S2.jpg)
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kΩ.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2026%20S2.jpg)
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2028%20S2.jpg)
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2030%20S2.jpg)
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2032%20S2%20a.jpg)
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2032%20S2%20b.jpg)
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2034%20S2.jpg)
+
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2036%20S2%20a.jpg)
+
+![](https://github.com/MelanyArmas/Tarea-4/blob/main/EJ%2036%20S2%20b.jpg)
+
+VIDEO
+
+https://youtu.be/Dx02j49LlcU
+
+CONCLUSIONES Al momento de desarrollar los ejercicios y problemas propuestos en los capítulos 5 y 6, se pudo determinar que es necesario conocer la ley de ohm apliacada en circuitos en serie y paralelo, así como tambien se debe conocer la potencia en circuitos en serie y paralelo y las leyes de Kirchhoff para llegar a los resultdos correctos.
+
+BIBLIOGRAFÍA
+
+(Floyd,T)(2007). Principios de circuitos eléctricos 8va edición. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
