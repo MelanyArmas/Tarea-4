@@ -20,7 +20,7 @@ MARCO TEÓRICO
 
 CAPÍTULO 7:
 
-![](https://github.com/MelanyArmas/Tarea-4/blob/main/AN%C3%81LISIS%20DE%20CIRCUITOS%20RESISTIVOS%20EN%20SERIE-PARALELO.png)
+![]()
 
 ![](https://github.com/MelanyArmas/Tarea-4/blob/main/Corriente%20de%20carga%20y%20corriente%20remanente.png)
 
